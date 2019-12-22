@@ -1,0 +1,10 @@
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe.config
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.exe
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\bin\Debug\VeriYapilariProje.pdb
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csprojAssemblyReference.cache
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Form1.resources
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.Properties.Resources.resources
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.GenerateResource.cache
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.csproj.CoreCompileInputs.cache
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.exe
+C:\Users\maski\Desktop\inceleme\Yeni klasör\Ödev\VeriYapılarıProje\VeriYapilariProje\VeriYapilariProje\obj\Debug\VeriYapilariProje.pdb
